@@ -18,7 +18,7 @@ with their own data (cf. photo, picture, music,etc.) <br>through making remix vi
 * Remixing works which were made by others with their own information 
 * Presentation Skill
 * Media literacy
-* Know about "Creative Commons"
+* Know about "Copyright" (cf.Creative Commons)
 ---
 #Target
 ---
