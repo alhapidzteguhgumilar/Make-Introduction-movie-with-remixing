@@ -38,22 +38,22 @@ Junior high (12-15) ~
 ##Procedure
 
 Step1
-<br>Go to [Youtube](http://www.youtube.com/) or [Vimeo](https://vimeo.com/‎) or [Soundcloud](https://soundcloud.com/), and find their favorites or good works to remix. If they find them, copy each URL to share.
+Go to [Youtube](http://www.youtube.com/) or [Vimeo](https://vimeo.com/‎) or [Soundcloud](https://soundcloud.com/), and find their favorites or good works to remix. If they find them, copy each URL to share.
 
 Step2
 Go to [Popcorn maker](https://popcorn.webmaker.org/) site.
-<br>And, paste the URL on a brank on the "My Media" tab.
-<br>Then, click a work on "My Media Gallery" 
+And, paste the URL on a brank on the "My Media" tab.
+Then, click a work on "My Media Gallery" 
 
 Step3
-<br>Let's remix : )
-<br> They can use various fanctions on "Event" tab.
+Let's remix : )
+ They can use various fanctions on "Event" tab.
 
 Step4
-<br>After the finish making, Do not forget to click on a "save".
+After the finish making, Do not forget to click on a "save".
 
 Step5
-<br>Making a presentation for introduction for others *included other sites. In addition, students can see outputs from each PC (["search Makes" form](https://webmaker.org/party))
+Making a presentation for introduction for others *included other sites. In addition, students can see outputs from each PC (["search Makes" form](https://webmaker.org/party))
 
 ---
 #Sample
