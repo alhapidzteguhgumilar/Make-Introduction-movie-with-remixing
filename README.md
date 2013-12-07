@@ -57,5 +57,5 @@ Making a presentation for introduction for others *included other sites. In addi
 
 ---
 #Sample
-<iframe src='https://hironieee.makes.org/popcorn/1mo4_' width='560' height='358' frameborder='0' mozallowfullscreen webkitallowfullscreen allowfullscreen></iframe>
+<iframe src='https://hironieee.makes.org/popcorn/1mo4_' width='640' height='403' frameborder='0' mozallowfullscreen webkitallowfullscreen allowfullscreen></iframe>
 ---
