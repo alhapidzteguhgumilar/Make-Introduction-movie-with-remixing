@@ -58,4 +58,7 @@ Making a presentation for introduction for others *included other sites. In addi
 ---
 #Sample
 [https://hironieee.makes.org/popcorn/1mo4](https://hironieee.makes.org/popcorn/1mo4)
+
+Reference
+<br> [How to use "Popcorn maker"](http://www.slideshare.net/elie-j/popcorn-manual0718) *slideshare
 ---
